@@ -1,6 +1,6 @@
 # Euclidean and Extended Euclidean Algorithm Calculator
 
-### Website Hosted: http://euclideancalc.rf.gd/
+### Website Hosted: http://euclideancalc.byethost16.com/
 
 This website finds the GCD using the Euclidean algorithm or a linear combination of the GCD using the extended Euclidean algorithm. All steps/work done is also shown.
 
