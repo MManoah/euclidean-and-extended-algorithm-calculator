@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+.extendedLink{
+    text-align: center;
+    color: white;
+}
+.topBox{
+    border: 1px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+    padding-bottom: 1em;
+    margin-bottom: 7em;
+}
+h1{
+    font-size: 3em;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+  }
+a:hover {
+    color: rgb(133, 133, 247);
+}
+a:active {
+    color: blue;
+}
+main{
+    text-align: center;
+    color: white;
+}
+#submit{
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: #d3d2d2;
+}
+#submit:active{
+ background-color: #999999;
+  transform: translateY(1px);
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    font-size: 40px;
+}
+table, th, td {
+    border: 1px solid white;
+}
