@@ -2,7 +2,7 @@
 
 ### Website Hosted: http://euclideancalc.byethost16.com/
 
-This website finds the GCD using the Euclidean algorithm or a linear combination of the GCD using the extended Euclidean algorithm. All steps/work done is also shown.
+This website finds the GCD using the Euclidean algorithm or finds a linear combination of the GCD using the extended Euclidean algorithm. All steps/work done is also shown.
 
 ## How It Works
 
