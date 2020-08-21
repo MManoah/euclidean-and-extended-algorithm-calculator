@@ -74,13 +74,9 @@ submit.addEventListener("mousedown", function () {
   }
 });
 
-// Multiples r2*integer until the integer+1 is greater then r2, that will be quotient
+// Divides r1 / r2 and rounds that down to get the largest possible quotient
 function getQuotient(r1, r2) {
-  let quotient = 0;
-  while (r2 * (quotient + 1) < r1) {
-    quotient++;
-  }
-  return quotient;
+  return Math.floor(r1 / r2);
 }
 
 // s=s1-s2*q
