@@ -1,6 +1,6 @@
 # Euclidean and Extended Euclidean Algorithm Calculator
 
-### Website Hosted: https://mmanoah.github.io/euclidean-and-extended-algorithm-calculator/index.html
+### Website Hosted: https://mmanoah.github.io/euclidean-and-extended-algorithm-calculator/
 
 This website finds the GCD using the Euclidean algorithm or finds a linear combination of the GCD using the extended Euclidean algorithm. All steps/work done is also shown.
 
